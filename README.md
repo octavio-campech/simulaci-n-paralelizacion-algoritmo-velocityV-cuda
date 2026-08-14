@@ -4,7 +4,7 @@ Este proyecto implementa y optimiza el algoritmo **Velocity Verlet** para simula
 
 ## Documentación Técnica
 Informe sencillo que explica la física y el análisis de resultados.
-**[Leer Reporte Técnico (PDF)](./Informe-paralelización-en-CUDA-(1).pdf)**
+**[Leer Reporte Técnico (PDF)](./Informe_paralelización_CUDA.pdf)**
 
 ##  Ejecución en la Nube
 Ejecutar el cuaderno directamente en Google Colab para experimentar con la aceleración por GPU:
